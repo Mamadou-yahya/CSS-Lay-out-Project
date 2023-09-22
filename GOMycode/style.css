@@ -1,0 +1,70 @@
+body{
+    font-family: sans-serif;
+    color: #252525;
+}
+a {
+    color: #252525;
+    text-decoration: none;
+}
+
+.active{
+    color: #252525;
+}
+.docplaner-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10p;
+}
+.boox-row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+.boox-boox{
+    color: #5dc6b0;
+}
+.boox-boox{
+    color: #5dc6b0;
+}
+.real{
+    display: flex;
+    margin: 25px;
+    text-align: center;
+}
+.service{
+    display: flex;
+    justify-content: space-around;
+}
+.service-card-service-patient{
+    background-color: #5dc6b0;
+    margin: 50px;
+    border: 50px;
+    padding: 50px;
+}
+.service-card-service-doctors{
+    background-color: rgb(72, 123, 231);
+    margin: 50px;
+    padding: 50px;
+    border: 50px;
+}
+.service-card-service-clinics{
+    background-color: black;
+    margin: 50px;
+    padding: 50px;
+    border: 50px;
+}
+#partie-2{
+ color: white;   
+}
+.bun-ter{
+    margin: 10px;
+}
+.service-card-select{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.{
+}
+
